@@ -1,0 +1,17 @@
+@media screen and (max-width: 576px) {
+  #nav-bar {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  nav > div {
+    padding: 8px 20px;
+  }
+
+  .border-leff {
+    border: none;
+  }
+  #footer i {
+    margin: 1em 1.8em;
+    transform: scale(300%);
+  }
+}
