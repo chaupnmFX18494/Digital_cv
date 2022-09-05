@@ -20,6 +20,7 @@
     ),
     url(../images/banner.jpg);
   background-size: cover;
+  background-position: top;
 }
 .name {
   position: absolute;
